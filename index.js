@@ -1,7 +1,7 @@
 
 // Write your code here
 
-let num1 = 2, num2 = 32;
+let num1 = 2, num2 = 31;
 
 let multiply = num1 * num2;
 
