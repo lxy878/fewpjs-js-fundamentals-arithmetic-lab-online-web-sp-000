@@ -8,4 +8,4 @@ let multiply = num1 * num2;
 let random = Math.random(num2)+1;
 let mod = 7 % 3
 
-let max =
+let max = Math.max(1, 20, .90)
