@@ -3,4 +3,4 @@
 
 let num1, num2;
 
-let multiply
+let multiply = num1 * num2;
